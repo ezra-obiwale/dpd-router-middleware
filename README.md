@@ -3,7 +3,7 @@ Simple router middleware for deployd
 ## Installation
 
 ````
-npm install dpd-router-event dpd-router-middleware --save
+$ npm install dpd-router-event dpd-router-middleware --save
 ````
 
 ## Usage
