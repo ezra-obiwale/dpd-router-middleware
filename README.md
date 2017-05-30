@@ -2,6 +2,8 @@ Simple router middleware for deployd
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezra-obiwale/dpd-router-middleware.svg)](https://greenkeeper.io/)
+
 ````
 $ npm install dpd-router-event dpd-router-middleware --save
 ````
